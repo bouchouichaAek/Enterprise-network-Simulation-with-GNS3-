@@ -15,6 +15,23 @@ i86bi_Linux-L2-adventerprisek9-mz124-15.bin
 
 c7200-adventerprisek9-mz.153-3.XB12.image
 
+## Protocols that i used : 
+
+- OSPF : to routig between the networks and subnets build the routing table 
+
+- NAT  : to make the clients reach the internat 
+
+- MPLS : to connect between the HQ Branch (i use it on OSPF Protocol)
+
+- DHCP : to assing the address ip automatacly to the client
+
+- VLAN : to separate each subnet from another
+
+## Network Topology
+
+(PFE.jpg)
+
+
 👤 ** Bouchouicha Abdelkader **
 
 - GitHub: [@bouchouichaAek](https://github.com/bouchouichaAek)
