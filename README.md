@@ -29,7 +29,7 @@ c7200-adventerprisek9-mz.153-3.XB12.image
 
 ## Network Topology
 
-(PFE.jpg)
+(/PFE.jpg)
 
 
 👤 ** Bouchouicha Abdelkader **
