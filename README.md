@@ -27,6 +27,10 @@ c7200-adventerprisek9-mz.153-3.XB12.image
 
 - VLAN : to separate each subnet from another
 
+## Note : 
+
+You must download all files before extracting the project
+
 ## Network Topology
 
 ![alt text](https://github.com/bouchouichaAek/Enterprise-network-Simulation-with-GNS3-/blob/main/PFE.jpg)
