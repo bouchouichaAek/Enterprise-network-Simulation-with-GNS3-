@@ -27,6 +27,8 @@ c7200-adventerprisek9-mz.153-3.XB12.image
 
 - VLAN : to separate each subnet from another
 
+- ZBF : Zone-Based Policy Firewall 
+
 ## Note : 
 
 You must download all files before extracting the project
